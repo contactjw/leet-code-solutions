@@ -45,6 +45,5 @@ class MergeLists {
         llist1.head = new Solution().mergeTwoLists(llist1.head,
                 llist2.head);
         llist1.printList();
-
     }
 }
